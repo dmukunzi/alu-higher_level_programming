@@ -1,1 +1,1 @@
-# alu-higher_level_programming
+This repository contains practice tutorials about python programming practice
